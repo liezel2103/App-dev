@@ -1,4 +1,5 @@
 # App-dev
 My Repository 
 
-Merry Christmas Sir!!!!!!!!!!
+I love watching movies 
+I love playing games
