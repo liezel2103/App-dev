@@ -1,5 +1,7 @@
 # App-dev
 My Repository 
 
-BSIT 3.1C
+Scoula Maria
+Lyceum of the Philippines
+STI College Batangas
 
