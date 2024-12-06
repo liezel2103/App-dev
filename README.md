@@ -1,5 +1,7 @@
 # App-dev
 My Repository 
 
-Sickrate Sir 
-
+Wonton Chowking
+Sisig
+Jolly Spaghetti
+Mi Goreng
